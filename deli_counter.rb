@@ -13,4 +13,4 @@ def line(array)
   end
 end
 def take_a_number(array, name)
-  array.push()
+  array.push(name)
