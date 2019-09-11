@@ -9,5 +9,5 @@ def line(array)
       counter += 1
     end
     else
-puts "the li"
+puts "the line is curen"
 end
