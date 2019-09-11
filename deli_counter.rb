@@ -9,5 +9,5 @@ def line(array)
       counter += 1
     end
     else
-puts "the line is curently "
+puts "the line is curren"
 end
