@@ -22,4 +22,4 @@ end
 def now_serving(array)
   if array.empty?== true
     puts "There is nobody waiting to be served!"
-  elsif array
+  elsif array.empty 
