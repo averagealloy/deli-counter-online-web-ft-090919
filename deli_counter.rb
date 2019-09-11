@@ -9,5 +9,5 @@ def line(array)
       counter += 1
     end
     else
-puts "the line is currently empt"
+puts "the line is currently empty"
 end
