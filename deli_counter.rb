@@ -7,5 +7,6 @@ else
   messgae = "The line is currently:"
   array.each-with_index do | value, index|
     message += " #{index.to_i = 1}. #{value}"
-  end 
+  end
+  put
 end
