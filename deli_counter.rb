@@ -25,4 +25,5 @@ def now_serving(array)
   elsif array.empty? == false
     puts "Currently serving #{array.shift}."
   end
-end 
+end
+now
