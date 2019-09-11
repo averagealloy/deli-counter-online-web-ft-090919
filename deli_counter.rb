@@ -5,5 +5,5 @@ def line(array)
     new_array = []
     counter = 1
     array.each do |name|
-      n
+      new_a
 end
