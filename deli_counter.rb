@@ -5,5 +5,5 @@ if array.legnth == 0
   puts puts "The line is currently empty."
 else
   messgae = "The line is currently:"
-  array.each-with_index do | value, ind
+  array.each-with_index do | value, index|
 end
