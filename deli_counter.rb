@@ -2,5 +2,5 @@
 
 def line(array)
   if array.length >= 1
-    new_array
+    new_array = []
 end
