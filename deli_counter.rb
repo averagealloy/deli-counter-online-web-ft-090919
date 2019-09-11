@@ -12,3 +12,4 @@ def line(array)
   puts "#{message}"
   end
 end
+def t
