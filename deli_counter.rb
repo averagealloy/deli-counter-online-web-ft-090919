@@ -1,4 +1,4 @@
-# Write your code here.
+s# Write your code here.
 katz_deli = []
 def line(array)
 if array.legnth == 0
