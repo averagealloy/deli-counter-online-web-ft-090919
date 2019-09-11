@@ -12,4 +12,4 @@ def line(array)
   puts "#{message}"
   end
 end
-def take_a_
+def take_a_num
