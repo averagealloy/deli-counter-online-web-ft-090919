@@ -9,5 +9,5 @@ def line(array)
       counter += 1
     end
     else
-PUT
+puts 
 end
