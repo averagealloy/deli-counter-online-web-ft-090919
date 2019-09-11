@@ -1,5 +1,5 @@
 # Write your code here.
 katz_deli = []
 def line(array)
-if arr
+if array.le
 end
