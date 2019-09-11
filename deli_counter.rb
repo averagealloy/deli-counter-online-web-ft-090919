@@ -1,6 +1,6 @@
 # Write your code here.
 katz_deli = []
 def line
-  if ar
+  if array
 puts "The line is currently empty."
 end
