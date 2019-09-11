@@ -6,5 +6,5 @@ def line(array)
     counter = 1
     array.each do |name|
       new_array.push("the line is currently #{counter}.#{name}")
-      els
+    else 
 end
