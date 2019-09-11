@@ -8,5 +8,5 @@ else
   array.each-with_index do | value, index|
     message += " #{index.to_i = 1}. #{value}"
   end
-  puts "#{mess}"
+  puts "#{message}"
 end
