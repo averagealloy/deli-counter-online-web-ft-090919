@@ -6,4 +6,5 @@ if array.legnth == 0
 else
   messgae = "The line is currently:"
   array.each-with_index do | value, index|
+    m
 end
